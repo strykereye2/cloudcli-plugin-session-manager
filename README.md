@@ -17,7 +17,7 @@ A session management tab plugin for [CloudCLI](https://github.com/siteboon/claud
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark](https://via.placeholder.com/400x250/08080f/e2e0f0?text=Sessions+Dark) | ![Light](https://via.placeholder.com/400x250/fafaf9/0f0e1a?text=Sessions+Light) |
+| ![Dark](img/Dark.jpg) | ![Light](img/Light.jpg) |
 
 ## Installation
 
